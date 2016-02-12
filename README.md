@@ -1,3 +1,3 @@
-# voter-simulator
-- Voter Simulator - 
+# Voter Simulator
+
 Wyncode Academy Week Two Project
